@@ -1,5 +1,5 @@
 # 👋 Hi there!
-🌱 Junior Software Enginner<br>🤝 from Middle East Technical University<br>⚡ Interested in Backend Development
+🌱 Software Enginner<br>🤝 from Middle East Technical University<br>⚡ Interested in Backend Development
 
 
 ## 🌐 Socials:
